@@ -1,0 +1,26 @@
+Objetivo: Criar um Sistema de Venda, contendo no mínimo 3 telas:
+
+1. Pedidos com Itens de Pedido
+2. Produtos (id, nome, preço de custo, preço de venda, qtd estoque)
+3. Clientes (id, nome, end, email, telefone)
+
+Premissa: O desenvolvimento deve ser feito utilizando Nodejs e Reactjs
+
+Grupo: Poderá ser feito no mínimo por 1 pessoa e no máximo por 4 pessoas
+
+Preencher o nome da squad e do grupo na planilha:
+https://docs.google.com/spreadsheets/d/1N-bQ7v6Zbr5ARzuZoOyKPo7FgjLFOyp35-N4ybNsH_0/edit#gid=0
+
+Pontuação:
+O TP terá o valor de 0 a 5 pontos
+
+Avaliação:
+Prova: 5 pontos
+TP: 5 pontos
+Média final: Prova + TP
+
+Entrega para o professor:
+Preecher a planilha contendo a URL do Github + Link da Aplicação
+
+Data limite de entrega:
+09/11/2020
